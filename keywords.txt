@@ -1,0 +1,24 @@
+#######################################
+# PIRSensor
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+PIRSensor	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+lastTriggerTime	KEYWORD2
+triggeredWithin	KEYWORD2
+currentTriggers	KEYWORD2
+activate	KEYWORD2
+deactivate	KEYWORD2
+trigCount	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
